@@ -15,15 +15,15 @@ console.log(school.toUpperCase());
 // }
 
 
-const subject = 'Chemistry';
-const book = 'chemistry';
+// const subject = 'Chemistry';
+// const book = 'chemistry';
 
-if(subject.toLowerCase() === book.toLowerCase()){
-    console.log('i am reading book aibar parikkhai fatai felmo');
-}
-else{
-    console.log('hudai hudai prista ultai ar vat khawar jonno');
-}
+// if(subject.toLowerCase() === book.toLowerCase()){
+//     console.log('i am reading book aibar parikkhai fatai felmo');
+// }
+// else{
+//     console.log('hudai hudai prista ultai ar vat khawar jonno');
+// }
 
 const drink = ' water  ';
 const liquid = '  water  ';
