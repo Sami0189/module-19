@@ -31,5 +31,5 @@ const sentence = 'i want to learn web dev.';
 
 
 
-const reversed = sentence.split('').reverse().join(' ');
+const reversed = sentence.split(' ').reverse().join(' ');
 console.log(reversed);

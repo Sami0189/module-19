@@ -1,15 +1,15 @@
 //keys
 
-// const computer={
-//     brand:'apple',
-//     price:40000,
-//     processor:'intel',
-//     hdd:'512gb'
-// }
+const computer={
+    brand:'apple',
+    price:40000,
+    processor:'intel',
+    hdd:'512gb'
+}
 
 
-// const keys = Object.keys(computer);
-// console.log(keys);
+const keys = Object.keys(computer);
+console.log(keys);
 
 
 
@@ -54,18 +54,18 @@
 
 //if we want to delete any option then we use it
 
-const college={
-    name:'vnc',
-    class:['10','11','12'],
-    events:['science fair','bijoy dibos','21 feb'],
-    unique:{
-        color:'blue',
-        result:{
-            gpa:5,
-            merit:'top'
-        }
-    }
-}
-delete college.class;
-console.log(college);
+// const college={
+//     name:'vnc',
+//     class:['10','11','12'],
+//     events:['science fair','bijoy dibos','21 feb'],
+//     unique:{
+//         color:'blue',
+//         result:{
+//             gpa:5,
+//             merit:'top'
+//         }
+//     }
+// }
+// delete college.class;
+// console.log(college);
 
